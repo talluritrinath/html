@@ -1,0 +1,20 @@
+
+    <head>
+        <meta charset="utf-8">
+    <tittle> i love you trinath </tittle>
+    <link rel="stylesheet"herf=".style.css">
+    </head>
+    <body>
+        
+    </body>
+    <frome>
+        <div clss ="wrapper">
+            <input type="checkbox" id="ck1 " onclick="check[]"/>
+            <label for="ck1">I>/label>
+                <input type="checkbox" ="" id="ck2" onclick="check[]"/>
+                <label for="ck2>">love</label>
+                <input type="checkbox" id="ck3"> oneclick="check[]"/>
+                <label for="ck3">you</label>
+                <span> {click onwords}<span>
+                    <div>
+                        <form>
